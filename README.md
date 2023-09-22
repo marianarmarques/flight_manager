@@ -5,7 +5,6 @@ Class: Distributed Systems @UniversityOfMinho
 
 Language: *JAVA*, UML
 
-
 # Authors
 
 + Marco Sousa, https://www.linkedin.com/in/marco-antonio-sousa/
@@ -14,5 +13,4 @@ Language: *JAVA*, UML
 + Mariana Marques https://www.linkedin.com/in/mariana-r-marques/
 
 # Grade:
-20/20
-# flight_manager
+20
